@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AdminBakeBoutique</string>
+    <string name="selected_item_image">Selected Item Image</string>
+    <string name="select_image">Select Image</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="item_price">Item Price</string>
+    <string name="add_item1">Add Item</string>
+    <string name="add_user">Add User</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_userbtn">Add User</string>
+    <string name="admin_signup">Admin Signup</string>
+    <string name="username1">Username</string>
+    <string name="email2">Email</string>
+    <string name="password2">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_upbtn">Sign Up</string>
+    <string name="completed_orders">Completed Orders</string>
+    <string name="full_name">Full Name</string>
+    <string name="email3">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="new_password">New Password</string>
+    <string name="save_changes">Save Changes</string>
+</resources>

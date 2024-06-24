@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/purplelight"
+    tools:context=".AddItemActivity"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center"
+        android:src="@drawable/additem"
+        android:contentDescription="@string/selected_item_image"/>
+
+    <Button
+        android:id="@+id/select_image_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_image"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:textColor="@color/purple"
+        android:text="@string/add_item"/>
+
+    <EditText
+        android:id="@+id/item_name"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom_background"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:paddingStart="20dp"
+        android:hint="@string/item_name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/item_description"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom_background"
+        android:layout_marginTop="20dp"
+        android:layout_height="40dp"
+        android:paddingStart="20dp"
+        android:hint="@string/item_description"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/item_price"
+        android:layout_width="match_parent"
+        android:background="@drawable/custom_background"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:paddingStart="20dp"
+        android:hint="@string/item_price"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/add_item_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_item1"
+        android:layout_marginTop="16dp" />
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "215240416195",
+    "firebase_url": "https://adminbakeboutique-default-rtdb.firebaseio.com",
+    "project_id": "adminbakeboutique",
+    "storage_bucket": "adminbakeboutique.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215240416195:android:e47d3658bdc8dce5b27b76",
+        "android_client_info": {
+          "package_name": "com.example.adminbakeboutique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oNjlQQwCoirrl1fOLdNQ1JOT0-ieyoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

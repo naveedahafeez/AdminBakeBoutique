@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item_image" type="id" />
+    <item name="select_image_button" type="id" />
+    <item name="password" type="id" />
+    <item name="username" type="id" />
+    <item name="email" type="id" />
+    <item name="add_user_button" type="id" />
+    <item name="profile_picture" type="id" />
+    <item name="profile_name" type="id" />
+    <item name="profile_email" type="id" />
+    <item name="profile_phone" type="id" />
+    <item name="profile_password" type="id" />
+    <item name="edit_profile_button" type="id" />
+    <item name="edit_name" type="id" />
+    <item name="edit_email" type="id" />
+    <item name="edit_phone" type="id" />
+    <item name="edit_password" type="id" />
+    <item name="save_button" type="id" />
+    <item name="welcome_text" type="id" />
+    <item name="pending_orders_layout" type="id" />
+    <item name="pending_orders_count" type="id" />
+    <item name="completed_orders_layout" type="id" />
+    <item name="completed_orders_count" type="id" />
+    <item name="total_earnings_layout" type="id" />
+    <item name="total_earnings" type="id" />
+    <item name="admin_profile_button" type="id" />
+    <item name="view_items_button" type="id" />
+    <item name="logout_button" type="id" />
+    <item name="title_text" type="id" />
+    <item name="pending_orders_listview" type="id" />
+    <item name="completed_orders_listview" type="id" />
+    <item name="signup_link" type="id" />
+    <item name="login_button" type="id" />
+    <item name="items_recycler_view" type="id" />
+</resources>
